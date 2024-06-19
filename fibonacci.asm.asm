@@ -68,7 +68,7 @@ ciclo:                                         # inicio do ciclo
 
 dar_valor_t_dois:
      move $t2, $s0
-     j ciclo                     #eh sempre verdade, para qualquer valor de $t3 (pois $t3 sempre sera maior que 0)
+     j ciclo                     #eh sempre verdade, para qualquer valor de $t2 (pois $t2 sempre sera maior que 0)
     
 dar_valor_t_um:
      move $t1, $s0
