@@ -82,4 +82,4 @@ fimciclo:	                                   # fim do ciclo
     msg:      .asciiz "Introduza o numero:"
     msg_imprimir: .asciiz "\n O numero eh: "
 
-# Fim do programa soma dos numero a n 
+# Fim do programa
